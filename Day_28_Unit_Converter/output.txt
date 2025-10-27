@@ -1,0 +1,34 @@
+=== Welcome To Unit Converter ===
+
+=== Menu ===
+1. Kilometers to Miles
+2. Miles to Kilometers
+3. Kilograms to Pounds
+4. Pounds to Kilograms
+5. Celsius to Fahrenheit
+6. Fahrenheit to Celsius
+7. Exit
+======================
+Enter your choice (1–7): 3
+Enter value to convert: 10
+10.0 kg = 22.05 lbs
+------------------------------
+Thanks for using Unit Converter!
+
+=== Menu ===
+1. Kilometers to Miles
+2. Miles to Kilometers
+3. Kilograms to Pounds
+4. Pounds to Kilograms
+5. Celsius to Fahrenheit
+6. Fahrenheit to Celsius
+7. Exit
+======================
+Enter your choice (1–7): 6
+Enter value to convert: 98
+98.0°F = 36.67°C
+------------------------------
+Thanks for using Unit Converter!
+
+We are happy to help you! See You Again.
+Exiting.....

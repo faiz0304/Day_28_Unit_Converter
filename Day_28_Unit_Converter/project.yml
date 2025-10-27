@@ -1,0 +1,26 @@
+
+---
+
+### **project.yml**
+```yaml
+project:
+  name: Unit Converter
+  day: 28
+  week: 4
+  author: Faiz Ur Rehman Ashrafi
+  description: >
+    A console-based Unit Converter that converts between common units
+    (distance, weight, temperature) using Object-Oriented Programming (OOP).
+  versions:
+    - 01_unit_converter.py: Basic version (one-way conversions)
+    - 02_unit_converter.py: Advanced version (bi-directional conversions)
+  features:
+    - Convert km ↔ miles
+    - Convert kg ↔ pounds
+    - Convert °C ↔ °F
+    - Input validation
+    - Menu-based user interaction
+  category: OOP & Little Challenges
+  language: Python
+  version: 1.0
+  status: Completed
